@@ -5,6 +5,10 @@ node{
         git url: 'https://github.com/raquelbatista/Project_PD.git'
     }
     
+    enviorenment {
+        PATH = "$PATH:/usr/local/bin"
+    }
+    
     stage('Run Docker Compose File')
     {
         sh 'sudo docker-compose build'
