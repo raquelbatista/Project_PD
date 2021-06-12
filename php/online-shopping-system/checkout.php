@@ -135,10 +135,7 @@ span.price {
 							<label for="state">State</label>
 							<input type="text" id="state" name="state" class="form-control" pattern="^[a-zA-Z ]+$" required>
 						</div>
-						<div class="col-50">
-							<label for="zip">Zip</label>
-							<input type="text" id="zip" name="zip" class="form-control">
-						</div>
+						
 						</div>
 					</div>
 					
