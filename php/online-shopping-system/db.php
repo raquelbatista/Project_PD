@@ -1,6 +1,6 @@
 <?php
 
-$servername = "127.0.0.1";
+$servername = "db";
 $username = "root";
 $password = "Password1234_123#!";
 $db = "pd_test";
