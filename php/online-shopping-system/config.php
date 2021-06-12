@@ -8,7 +8,7 @@ $email    = "";
 $errors = array(); 
 
 // connect to the database
-define('DB_SERVER', '127.0.0.1');
+define('DB_SERVER', 'db');
    define('DB_USERNAME', 'root');
    define('DB_PASSWORD', 'Password1234_123#!');
    define('DB_DATABASE', 'pd_test');
